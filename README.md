@@ -1,5 +1,7 @@
 # Sales Insights: Descriptive Analytics on E-Commerce Data
 
+![Project Banner](data/descr_project_banner.jpg)
+
 ## Project Overview
 This project dives into descriptive analytics of sales data from an online UK-based retail store specializing in unique, all-occasion gifts. Using a dataset obtained from the UCI Machine Learning repository, I explored over a year of transactions, identifying trends and patterns that provide key insights into the company’s sales performance.
 
