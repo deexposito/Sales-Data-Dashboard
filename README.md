@@ -23,8 +23,8 @@ This project dives into descriptive analytics of sales data from an online UK-ba
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/sales-insights.git
-    cd sales-insights
+    git clone https://github.com/deexposito/Sales-Data-Dashboard.git
+    cd Sales-Data-Dashboard
     ```
 2. Install required dependencies:
     ```bash
@@ -33,7 +33,7 @@ This project dives into descriptive analytics of sales data from an online UK-ba
 3. Download the dataset (if needed) and place it in the `data/` folder.
 
 ## Usage
-1. Open the Jupyter notebook `sales_analysis.ipynb` in your local environment.
+1. Open the Jupyter notebook `Sales-Data-Dashboard.ipynb` in your local environment.
 2. Run the notebook to explore the sales data, visualize trends, and derive insights.
 3. If you'd like to export results, use the built-in code to save visualizations and summaries.
 
